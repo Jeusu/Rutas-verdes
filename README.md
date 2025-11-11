@@ -42,7 +42,11 @@ PROXIMAS ACTUALIZACIONES:
 FUTURAS ACTUALIZACIONES:
 
 1.0-beta Implementar por fin, la ruta sugerida para tomar el recorrido y ocultar las otras rutas que no necesitas
+
 1.x-betaindev Tratar de implementar un modo “Offline”
+
 1.1-beta Implementar un botón que contega: los creditos, agradecimientos y el changelog
+
 1.2-beta Crear la aplicación “Rutas Verdes” (A partir de el modo “Offline”)
-2.x-beta Solucionar bugs 
+
+2.x-beta Solucionar bugs
