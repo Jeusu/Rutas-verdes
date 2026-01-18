@@ -64,7 +64,7 @@ Para reportar incosistencias en las rutas o errores en la pagina, puedes usar la
 
 ---
 
-## 🔮 Próximas actualizaciones
+## Próximas actualizaciones
 
 ### 1.x-beta (in dev)
 - Modo **Offline**
