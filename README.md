@@ -28,7 +28,7 @@ Para reportar incosistencias en las rutas o errores en la pagina, puedes usar la
 
 
 <details>
-  <summary><strong>📝 Changelog</strong></summary>
+  <summary><strong>Changelog</strong></summary>
 
 ### 1.0-alpha
 - Ubicación del usuario
